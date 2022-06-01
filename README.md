@@ -37,6 +37,12 @@ DSA interviews are used as an elimination criteria in companies. You are expecte
 
 Make use of the peer group effect to push each other and the batch performance upwards. The batch can conduct timed mock interview amongst each other or timed focus sprints for solving questions in a muted virtual meet mimicking a study group.   
 
+## Self Assesment criterias
+
+1. Difficulty level of the question: Easy-> Medium -> Hard.
+2. Time taken to solve the question.
+3. Communicate the solution and code clearly to the interviewer.
+
 ## 1. DSA Level I
 
 Platform: https://leetcode.com/explore/learn/
