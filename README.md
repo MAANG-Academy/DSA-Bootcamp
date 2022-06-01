@@ -10,10 +10,19 @@
 | 3. | DSA Level II. Curated list of problems | 12-21
 | 4. | Mock Interviews | 22,25
 | 5. | Low Level Design, Design patterns | 23-24
-\
-\
-\
-## Introduction
+
+
+
+## Guidelines
+
+Consistent practice is needed to get good at DSA. Creating a personal habit tracker to journal the no. of questions, time spent daily etc. will help build consistency, a state of flow and confidence.
+
+Spaced repetition, also known as distributed practice, is an extremely effective approach for internalizing knowledge into long-term memory. By doing questions across a variety of topics each week, and revisiting the topic again in subsequent weeks, you get to build on the learnings from the past weeks and become better at solving questions from that topic. 
+
+Maintain a notebook to write down every problem with their solutions/learnings. Revise them periodically throughout the duration of course.
+
+Although DSA might seem challenging initially, things start falling in place once we develop the right intuition for problem solving with practice. The optimal solutions of most problems are within 10 lines of code.
+
 
 
 ## 1. DSA Level I
