@@ -43,7 +43,19 @@ Platform: https://leetcode.com/explore/learn/
 
 Complete this module in 3 days : https://leetcode.com/explore/learn/card/fun-with-arrays/
 
+1. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
+`
+int findMaxConsecutiveOnes(vector<int>& nums) {
+        int ans=0,cur=0;
+        for (const auto& i:nums){
+           if (i==1)
+                ans=max(ans,++cur);
+           else cur=0;
+        }
+        return ans;
+    }
+`
 
 
 
