@@ -35,7 +35,7 @@ Since this is a self paced course, the student can customise the curriculum to s
 
 DSA interviews are used as an elimination criteria in companies. You are expected to typically solve the given question in ~30 min in tests & interviews. Strictly keep track of time while solving problems as part of this course. **Dont spend more than 30 min on any one problem.** If you cant come up with a solution logic in 5-10 min, that means you are yet to learn the particular technique or pattern needed to solve the given question. So straightaway refer the solution given, learn it and code it up. If needed, you can also go through Leetcode Discussions to see the top solutions, and videos online explaining the Leetcode solutions.
 
-Make use of the peer group effect to push each other and the batch performance upwards. The batch can conduct timed mock interview amongst each other or timed focus sprints for solving questions individually.   
+Make use of the peer group effect to push each other and the batch performance upwards. The batch can conduct timed mock interview amongst each other or timed focus sprints for solving questions in a muted virtual meet mimicking a study group.   
 
 ## 1. DSA Level I
 
