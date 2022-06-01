@@ -45,7 +45,7 @@ Complete this module in 3 days : https://leetcode.com/explore/learn/card/fun-wit
 
 1. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
-`
+```c++
 int findMaxConsecutiveOnes(vector<int>& nums) {
         int ans=0,cur=0;
         for (const auto& i:nums){
@@ -55,7 +55,7 @@ int findMaxConsecutiveOnes(vector<int>& nums) {
         }
         return ans;
     }
-`
+```
 
 
 
