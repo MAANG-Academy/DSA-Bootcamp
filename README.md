@@ -1,7 +1,7 @@
 # DSA-Bootcamp
 
 
-## Course Structure.
+## Course Structure
 
 | No. | Topic. | Week
 | ---|---|---
@@ -13,7 +13,7 @@
 
 
 
-## 1. DSA Level I.
+## 1. DSA Level I
 
 Platform: https://leetcode.com/explore/learn/
 
