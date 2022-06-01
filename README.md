@@ -41,5 +41,11 @@ Platform: https://leetcode.com/explore/learn/
 
 ## 1. Arrays 
 
+Complete this module in 3 days : https://leetcode.com/explore/learn/card/fun-with-arrays/
+
+
+
+
+
   
 
