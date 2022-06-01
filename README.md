@@ -78,10 +78,24 @@ Space Complexity : O(1)
     }
 ```
     
-Time Complexity : O(n)/
+Time Complexity : O(n)\
 Space Complexity : O(1)
 
+3. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
-
+```cpp
+    vector<int> sortedSquares(vector<int>& nums) {
+        vector<int>sq(nums.size());
+        int l=0,r=nums.size()-1;
+        for (int k=r;k>=0;k--)
+        {
+            if (abs(nums[l])>=abs(nums[r])) sq[k]=nums[l]*nums[l++];
+            else sq[k]=nums[r]*nums[r--];
+        }
+        return sq;
+    }
+```
+Time Complexity : O(n)\
+Space Complexity : O(n)
   
 
