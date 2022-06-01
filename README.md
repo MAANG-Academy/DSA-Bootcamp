@@ -19,7 +19,7 @@ Platform: https://leetcode.com/explore/learn/
 
 | No. | Topic. | Week
 | ---|---|---
-| 1. | [Arrays](#../1.Arrays.md)  | 1
+| 1. | [Arrays](1.Arrays.md)  | 1
 | 2. | Arrays & Strings | 1
 | 3. | Hash Table | 2
 | 4. | Stack & Queue  | 2
