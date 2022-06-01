@@ -5,11 +5,11 @@
 
 | No. | Topic. | Week
 | ---|---|---
-| 1. | DSA Level I. Platform: https://leetcode.com/explore/learn/ | Week 1-10
-| 2. | Mock Interviews | Week 11
-| 3. | DSA Level II. Curated list of problems | Week 12-21
-| 4. | Mock Interviews | Week 22, 25
-| 5. | Low Level Design, Design patterns | Week 23 - 24
+| 1. | DSA Level I. Platform: https://leetcode.com/explore/learn/ | 1-10
+| 2. | Mock Interviews | 11
+| 3. | DSA Level II. Curated list of problems | 12-21
+| 4. | Mock Interviews | 22, 25
+| 5. | Low Level Design, Design patterns | 23 - 24
 
 
 
