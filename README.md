@@ -5,7 +5,7 @@
 
 | No. | Topic. | Week
 | ---|---|---
-| 1. | DSA Level I | 1-10
+| 1. | [DSA Level I](#1-dsa-level-i) | 1-10
 | 2. | Mock Interviews | 11
 | 3. | DSA Level II. Curated list of problems | 12-21
 | 4. | Mock Interviews | 22,25
