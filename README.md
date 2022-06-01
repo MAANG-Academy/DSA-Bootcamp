@@ -41,8 +41,7 @@ Platform: https://leetcode.com/explore/learn/
 
 ## 1. Arrays 
 
-Complete this module in 3 days : https://leetcode.com/explore/learn/card/fun-with-arrays/
-The solutions are given below.
+Complete this module in 3 days : https://leetcode.com/explore/learn/card/fun-with-arrays/. The solutions are given below.
 
 1. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
@@ -57,7 +56,7 @@ int findMaxConsecutiveOnes(vector<int>& nums) {
         return ans;
     }
 ```
-Time Complexity : O(n)
+Time Complexity : O(n)\
 Space Complexity : O(1)
 
 
@@ -79,7 +78,7 @@ Space Complexity : O(1)
     }
 ```
     
-Time Complexity : O(n)
+Time Complexity : O(n)/
 Space Complexity : O(1)
 
 
