@@ -42,6 +42,7 @@ Platform: https://leetcode.com/explore/learn/
 ## 1. Arrays 
 
 Complete this module in 3 days : https://leetcode.com/explore/learn/card/fun-with-arrays/
+The solutions are given below.
 
 1. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
@@ -60,7 +61,7 @@ Time Complexity : O(n)
 Space Complexity : O(1)
 
 
-2. Find Numbers with Even Number of Digits
+2. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 
 ```cpp
     int findNumbers(vector<int>& nums) {
@@ -76,7 +77,7 @@ Space Complexity : O(1)
         }
         return ans;
     }
-    ```
+```
     
 Time Complexity : O(n)
 Space Complexity : O(1)
