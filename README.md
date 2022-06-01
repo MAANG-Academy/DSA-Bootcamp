@@ -24,7 +24,7 @@ Maintain a notebook to write down every problem with their solutions/learnings. 
 
 Although DSA might seem challenging initially, things start falling in place once we develop the right intuition for problem solving with practice. The optimal solutions of most problems are within 10 lines of code.
 
-\
+
 
 ## Guidelines
 
@@ -37,7 +37,7 @@ DSA interviews are used as an elimination criteria in companies. You are expecte
 
 Make use of the peer group effect to push each other and the batch performance upwards. The batch can conduct timed mock interview amongst each other or timed focus sprints for solving questions in a muted virtual meet mimicking a study group.   
 
-\
+
 
 ## Self Assesment Criteria
 
