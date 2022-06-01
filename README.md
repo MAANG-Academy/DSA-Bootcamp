@@ -44,6 +44,7 @@ Make use of the peer group effect to push each other and the batch performance u
 1. Difficulty level of the question: Easy-> Medium -> Hard.
 2. Time taken to solve the question.
 3. Ability to communicate the solution and code clearly to the interviewer.
+4. Time and space complexity of the solution.
 
 ## 1. DSA Level I
 
