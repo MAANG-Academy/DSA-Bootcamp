@@ -30,7 +30,7 @@ Although DSA might seem challenging initially, things start falling in place onc
 
 The recommended languages for DSA interviews are Python, Java or C++. 
 
-Since this is a self paced course, the student can customise the curriculum to suit their time commitments, competence levels and accordingly create a study plan. A schedule that will help cover the complete curriculum would be:
+Since this is a self paced course, the student can customise the curriculum to suit their time commitments, competence levels and accordingly create a study plan. A schedule that will help cover the complete curriculum would be:\
 **2hrs in morning, 2hrs in evening. 5-10 questions/day.**
 
 DSA interviews are used as an elimination criteria in companies. You are expected to typically solve the given question in ~30 min in tests & interviews. Strictly keep track of time while solving problems as part of this course. **Dont spend more than 30 min on any one problem.** If you cant come up with a solution logic in 5-10 min, that means you are yet to learn the particular technique or pattern needed to solve the given question. So straightaway refer the solution given, learn it and code it up. If needed, you can also go through Leetcode Discussions to see the top solutions, and videos online explaining the Leetcode solutions.
