@@ -7,7 +7,7 @@
 | ---|---|---
 | 1. | [DSA Level I](#1-dsa-level-i) | 1-10
 | 2. | Mock Interviews | 11
-| 3. | [DSA Level II](#) | 12-21
+| 3. | [DSA Level II](#3-dsa-level-ii) | 12-21
 | 4. | Mock Interviews | 22,25
 | 5. | Low Level Design, Design patterns | 23-24
 
@@ -71,6 +71,28 @@ Platform: https://leetcode.com/explore/learn/
 | 17. | Sliding Window  | 10
 | 18. | Math, Misc, Catalan Numbers,Bit manipulation etc  | 10
 
+
 ## 3. DSA Level II
 
+Platform: https://www.techinterviewhandbook.org/grind75?hours=15&weeks=10&grouping=topics&order=difficulty&mode=preferences
+
+| No. | Topic. | Questions
+| ---|---|---
+| 1. | [Array](Modules/DSALevel2/01.Arrays.md)  | 24
+| 2. | Stack | 14
+| 3. | Linked List | 14
+| 4. | String  | 14
+| 5. | Binary Tree | 18
+| 6. | Binary Search  | 8
+| 7. | Graph  | 21
+| 8. | Binary Search Tree  | 5
+| 9. | Hash Table | 3
+| 10. | Dynamic Programming | 12
+| 11. | Binary | 7
+| 12. | Math | 5
+| 13. | Heap | 8
+| 14. | Trie | 4
+| 15. | Recursion  | 6
+| 16. | Matrix  | 5
+| 17. | Queue | 1
 
