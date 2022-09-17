@@ -7,7 +7,7 @@
 | ---|---|---
 | 1. | [DSA Level I](#1-dsa-level-i) | 1-10
 | 2. | Mock Interviews | 11
-| 3. | DSA Level II. Curated list of problems | 12-21
+| 3. | [DSA Level II](#) | 12-21
 | 4. | Mock Interviews | 22,25
 | 5. | Low Level Design, Design patterns | 23-24
 
@@ -70,5 +70,7 @@ Platform: https://leetcode.com/explore/learn/
 | 16. | Segment Tree, Fenwick Tree  | 10
 | 17. | Sliding Window  | 10
 | 18. | Math, Misc, Catalan Numbers,Bit manipulation etc  | 10
+
+## 3. DSA Level II
 
 
