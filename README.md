@@ -78,13 +78,13 @@ Platform: https://www.techinterviewhandbook.org/grind75?hours=15&weeks=10&groupi
 
 | No. | Topic. | Questions
 | ---|---|---
-| 1. | [Array](Modules/DSALevel2/01.Arrays.md)  | 24
+| 1. | [Array]  | 24
 | 2. | Stack | 14
 | 3. | Linked List | 14
 | 4. | String  | 14
 | 5. | Binary Tree | 18
 | 6. | Binary Search  | 8
-| 7. | Graph  | 21
+| 7. | [Graph](Modules/DSALevel2/07.Graph.md)  | 21
 | 8. | Binary Search Tree  | 5
 | 9. | Hash Table | 3
 | 10. | Dynamic Programming | 12
@@ -95,4 +95,5 @@ Platform: https://www.techinterviewhandbook.org/grind75?hours=15&weeks=10&groupi
 | 15. | Recursion  | 6
 | 16. | Matrix  | 5
 | 17. | Queue | 1
+| | Total |169
 
